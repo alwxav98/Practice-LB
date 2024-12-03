@@ -1,4 +1,4 @@
-name: Push-to-EC2
+name: Push-to-EC2 with Load Balancer
 
 
 # Trigger deployment only on push to main branch
